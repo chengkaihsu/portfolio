@@ -11,4 +11,4 @@
 
 
 - [Google Scholar](https://scholar.google.com/citations?user=EbkMt7EAAAAJ&hl=en)
-- [Linkedin] (https://www.linkedin.com/in/cheng-kai-hsu-105a2212b/)
+- [Linkedin](https://www.linkedin.com/in/cheng-kai-hsu-105a2212b/)
