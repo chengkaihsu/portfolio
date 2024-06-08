@@ -1,5 +1,8 @@
 # Researcher, Urban Transportation, Environmental Exposure, and Public Health
 
+assets/img/Hsu_Cheng-Kai.jpg
+
+
 #### Technical Skills: Python, R, GIS analysis, causal inference
 
 ## Education
